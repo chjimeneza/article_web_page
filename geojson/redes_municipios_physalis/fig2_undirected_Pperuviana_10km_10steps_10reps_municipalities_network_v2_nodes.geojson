@@ -1,109 +1,2358 @@
 {
-"type": "FeatureCollection",
-"name": "fig2_undirected_Pperuviana_10km_10steps_10reps_municipalities_network_v2_nodes",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "ITUANGO", "label": "ITUANGO", "code": "5361", "community": 10, "pagerank": 0.029395157742000744, "weight": 2.9395157742000744, "size": 2939.5157742000742, "color_r": 0, "color_g": 255, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.764673, 7.171629 ] } },
-{ "type": "Feature", "properties": { "id": "VALDIVIA", "label": "VALDIVIA", "code": "5854", "community": 9, "pagerank": 0.0069419458111959643, "weight": 0.69419458111959642, "size": 694.19458111959648, "color_r": 128, "color_g": 128, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.439274, 7.1652 ] } },
-{ "type": "Feature", "properties": { "id": "TARAZÁ", "label": "TARAZÁ", "code": "5790", "community": 12, "pagerank": 0.0053381786956491544, "weight": 0.53381786956491539, "size": 533.81786956491544, "color_r": 75, "color_g": 0, "color_b": 130, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.401407, 7.580127 ] } },
-{ "type": "Feature", "properties": { "id": "BRICEÑO", "label": "BRICEÑO", "code": "5107", "community": 9, "pagerank": 0.0051890789098903841, "weight": 0.51890789098903845, "size": 518.90789098903838, "color_r": 128, "color_g": 128, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.55036, 7.112803 ] } },
-{ "type": "Feature", "properties": { "id": "MUTATÁ", "label": "MUTATÁ", "code": "5480", "community": 10, "pagerank": 0.026283102642092642, "weight": 2.6283102642092642, "size": 2628.310264209264, "color_r": 0, "color_g": 255, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.435875, 7.242875 ] } },
-{ "type": "Feature", "properties": { "id": "DABEIBA", "label": "DABEIBA", "code": "5234", "community": 2, "pagerank": 0.0036967619061882302, "weight": 0.36967619061882301, "size": 369.676190618823, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.261614, 6.998112 ] } },
-{ "type": "Feature", "properties": { "id": "PEQUE", "label": "PEQUE", "code": "5543", "community": 2, "pagerank": 0.0051821909112418673, "weight": 0.51821909112418674, "size": 518.21909112418678, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.910357, 7.021029 ] } },
-{ "type": "Feature", "properties": { "id": "TOLEDO", "label": "TOLEDO", "code": "5819", "community": 3, "pagerank": 0.005188899028148738, "weight": 0.51888990281487379, "size": 518.88990281487384, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.692281, 7.010328 ] } },
-{ "type": "Feature", "properties": { "id": "URAMITA", "label": "URAMITA", "code": "5842", "community": 2, "pagerank": 0.0034391075850794418, "weight": 0.34391075850794417, "size": 343.91075850794419, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.173284, 6.898393 ] } },
-{ "type": "Feature", "properties": { "id": "SABANALARGA", "label": "SABANALARGA", "code": "5628", "community": 3, "pagerank": 0.0070483755734044905, "weight": 0.70483755734044906, "size": 704.83755734044905, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.816645, 6.850028 ] } },
-{ "type": "Feature", "properties": { "id": "CAÑASGORDAS", "label": "CAÑASGORDAS", "code": "5138", "community": 2, "pagerank": 0.0052130002436636775, "weight": 0.5213000243663678, "size": 521.30002436636778, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.028228, 6.753859 ] } },
-{ "type": "Feature", "properties": { "id": "SAN ANDRÉS DE CUERQUÍA", "label": "SAN ANDRÉS DE CUERQUÍA", "code": "5647", "community": 3, "pagerank": 0.027614553412076071, "weight": 2.7614553412076073, "size": 2761.455341207607, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.674564, 6.916676 ] } },
-{ "type": "Feature", "properties": { "id": "YARUMAL", "label": "YARUMAL", "code": "5887", "community": 9, "pagerank": 0.008657263399031433, "weight": 0.86572633990314329, "size": 865.7263399031433, "color_r": 128, "color_g": 128, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.418828, 6.963832 ] } },
-{ "type": "Feature", "properties": { "id": "BURITICÁ", "label": "BURITICÁ", "code": "5113", "community": 2, "pagerank": 0.0063357396867761914, "weight": 0.63357396867761917, "size": 633.57396867761918, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.907, 6.720759 ] } },
-{ "type": "Feature", "properties": { "id": "FRONTINO", "label": "FRONTINO", "code": "5284", "community": 2, "pagerank": 0.0083384665095894116, "weight": 0.83384665095894117, "size": 833.84665095894115, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.130765, 6.776066 ] } },
-{ "type": "Feature", "properties": { "id": "SANTA ROSA DE OSOS", "label": "SANTA ROSA DE OSOS", "code": "5686", "community": 3, "pagerank": 0.012641851927539591, "weight": 1.2641851927539591, "size": 1264.1851927539592, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.460723, 6.643366 ] } },
-{ "type": "Feature", "properties": { "id": "SAN JOSÉ DE LA MONTAÑA", "label": "SAN JOSÉ DE LA MONTAÑA", "code": "5658", "community": 3, "pagerank": 0.0103882648701195, "weight": 1.0388264870119501, "size": 1038.8264870119501, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.683352, 6.85009 ] } },
-{ "type": "Feature", "properties": { "id": "CAMPAMENTO", "label": "CAMPAMENTO", "code": "5134", "community": 3, "pagerank": 0.0041703333558661881, "weight": 0.41703333558661881, "size": 417.03333558661882, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.298091, 6.979771 ] } },
-{ "type": "Feature", "properties": { "id": "ANORÍ", "label": "ANORÍ", "code": "5040", "community": 3, "pagerank": 0.0047604085567485603, "weight": 0.47604085567485604, "size": 476.040855674856, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.148355, 7.074703 ] } },
-{ "type": "Feature", "properties": { "id": "ANGOSTURA", "label": "ANGOSTURA", "code": "5038", "community": 3, "pagerank": 0.0062270804088412034, "weight": 0.62270804088412035, "size": 622.70804088412035, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.335116, 6.885175 ] } },
-{ "type": "Feature", "properties": { "id": "BELMIRA", "label": "BELMIRA", "code": "5086", "community": 7, "pagerank": 0.025002420347501657, "weight": 2.5002420347501655, "size": 2500.2420347501657, "color_r": 255, "color_g": 255, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.667779, 6.606319 ] } },
-{ "type": "Feature", "properties": { "id": "LIBORINA", "label": "LIBORINA", "code": "5411", "community": 3, "pagerank": 0.0087314678942238527, "weight": 0.87314678942238522, "size": 873.14678942238527, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.812838, 6.677316 ] } },
-{ "type": "Feature", "properties": { "id": "OLAYA", "label": "OLAYA", "code": "5501", "community": 3, "pagerank": 0.0058973117635430471, "weight": 0.58973117635430472, "size": 589.73117635430469, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.811773, 6.626492 ] } },
-{ "type": "Feature", "properties": { "id": "ENTRERRÍOS", "label": "ENTRERRÍOS", "code": "5264", "community": 7, "pagerank": 0.010194095875307936, "weight": 1.0194095875307936, "size": 1019.4095875307936, "color_r": 255, "color_g": 255, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.517685, 6.566273 ] } },
-{ "type": "Feature", "properties": { "id": "CAROLINA", "label": "CAROLINA", "code": "5150", "community": 3, "pagerank": 0.0087309968467890742, "weight": 0.87309968467890742, "size": 873.09968467890747, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.283192, 6.725995 ] } },
-{ "type": "Feature", "properties": { "id": "GIRALDO", "label": "GIRALDO", "code": "5306", "community": 2, "pagerank": 0.0029758835152111571, "weight": 0.29758835152111573, "size": 297.58835152111573, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.952158, 6.680808 ] } },
-{ "type": "Feature", "properties": { "id": "ABRIAQUÍ", "label": "ABRIAQUÍ", "code": "5004", "community": 2, "pagerank": 0.0054627775212033993, "weight": 0.54627775212033991, "size": 546.27775212033998, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.064304, 6.632282 ] } },
-{ "type": "Feature", "properties": { "id": "GUADALUPE", "label": "GUADALUPE", "code": "5315", "community": 3, "pagerank": 0.0081614974333854475, "weight": 0.81614974333854473, "size": 816.14974333854479, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.239862, 6.815069 ] } },
-{ "type": "Feature", "properties": { "id": "GÓMEZ PLATA", "label": "GÓMEZ PLATA", "code": "5310", "community": 3, "pagerank": 0.0082249022379550941, "weight": 0.8224902237955094, "size": 822.49022379550945, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.220018, 6.683269 ] } },
-{ "type": "Feature", "properties": { "id": "AMALFI", "label": "AMALFI", "code": "5031", "community": 11, "pagerank": 0.0055380313912769194, "weight": 0.55380313912769197, "size": 553.80313912769191, "color_r": 0, "color_g": 128, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.077501, 6.909655 ] } },
-{ "type": "Feature", "properties": { "id": "SANTA FÉ DE ANTIOQUIA", "label": "SANTA FÉ DE ANTIOQUIA", "code": "5042", "community": 2, "pagerank": 0.0095747046124044864, "weight": 0.95747046124044866, "size": 957.47046124044869, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.826648, 6.556484 ] } },
-{ "type": "Feature", "properties": { "id": "DONMATÍAS", "label": "DONMATÍAS", "code": "5237", "community": 7, "pagerank": 0.016891491364202468, "weight": 1.6891491364202469, "size": 1689.1491364202468, "color_r": 255, "color_g": 255, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.39263, 6.485603 ] } },
-{ "type": "Feature", "properties": { "id": "SOPETRÁN", "label": "SOPETRÁN", "code": "5761", "community": 3, "pagerank": 0.006693420706847285, "weight": 0.66934207068472851, "size": 669.34207068472847, "color_r": 128, "color_g": 0, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.747378, 6.500745 ] } },
-{ "type": "Feature", "properties": { "id": "YOLOMBÓ", "label": "YOLOMBÓ", "code": "5890", "community": 11, "pagerank": 0.0095844362131840537, "weight": 0.95844362131840533, "size": 958.44362131840535, "color_r": 0, "color_g": 128, "color_b": 128, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.013385, 6.594511 ] } },
-{ "type": "Feature", "properties": { "id": "SANTO DOMINGO", "label": "SANTO DOMINGO", "code": "5690", "community": 1, "pagerank": 0.0091629777092091715, "weight": 0.91629777092091713, "size": 916.29777092091717, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.164903, 6.473032 ] } },
-{ "type": "Feature", "properties": { "id": "BARBOSA", "label": "BARBOSA", "code": "5079", "community": 1, "pagerank": 0.0081180498177270254, "weight": 0.81180498177270255, "size": 811.80498177270249, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.331627, 6.439195 ] } },
-{ "type": "Feature", "properties": { "id": "URRAO", "label": "URRAO", "code": "5847", "community": 2, "pagerank": 0.02115853123347396, "weight": 2.1158531233473958, "size": 2115.8531233473959, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.133951, 6.317343 ] } },
-{ "type": "Feature", "properties": { "id": "CONCEPCIÓN", "label": "CONCEPCIÓN", "code": "5206", "community": 1, "pagerank": 0.0064711639652951193, "weight": 0.64711639652951192, "size": 647.11639652951192, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.257587, 6.394348 ] } },
-{ "type": "Feature", "properties": { "id": "CAICEDO", "label": "CAICEDO", "code": "5125", "community": 2, "pagerank": 0.0056848183345837473, "weight": 0.56848183345837477, "size": 568.48183345837469, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.98293, 6.405607 ] } },
-{ "type": "Feature", "properties": { "id": "SAN PEDRO DE LOS MILAGROS", "label": "SAN PEDRO DE LOS MILAGROS", "code": "5664", "community": 7, "pagerank": 0.019406224593537896, "weight": 1.9406224593537895, "size": 1940.6224593537895, "color_r": 255, "color_g": 255, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.556743, 6.46012 ] } },
-{ "type": "Feature", "properties": { "id": "VEGACHÍ", "label": "VEGACHÍ", "code": "5858", "community": 100, "pagerank": 0.004289361185020127, "weight": 0.42893611850201269, "size": 428.93611850201273, "color_r": 106, "color_g": 90, "color_b": 205, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -74.798714, 6.773525 ] } },
-{ "type": "Feature", "properties": { "id": "SAN JERÓNIMO", "label": "SAN JERÓNIMO", "code": "5656", "community": 4, "pagerank": 0.004739338184627219, "weight": 0.47393381846272187, "size": 473.93381846272189, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.726975, 6.44809 ] } },
-{ "type": "Feature", "properties": { "id": "GIRARDOTA", "label": "GIRARDOTA", "code": "5308", "community": 1, "pagerank": 0.0071411039367866996, "weight": 0.71411039367866991, "size": 714.11039367866999, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.444238, 6.379472 ] } },
-{ "type": "Feature", "properties": { "id": "COPACABANA", "label": "COPACABANA", "code": "5212", "community": 4, "pagerank": 0.0060406141679425363, "weight": 0.60406141679425363, "size": 604.06141679425366, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.509384, 6.348557 ] } },
-{ "type": "Feature", "properties": { "id": "BELLO", "label": "BELLO", "code": "5088", "community": 4, "pagerank": 0.0070077365184504602, "weight": 0.70077365184504603, "size": 700.77365184504606, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.555245, 6.333587 ] } },
-{ "type": "Feature", "properties": { "id": "SAN VICENTE FERRER", "label": "SAN VICENTE FERRER", "code": "5674", "community": 1, "pagerank": 0.009282666635853672, "weight": 0.92826666358536725, "size": 928.26666358536716, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.332616, 6.282164 ] } },
-{ "type": "Feature", "properties": { "id": "PEÑOL", "label": "PEÑOL", "code": "5541", "community": 1, "pagerank": 0.016041463143569423, "weight": 1.6041463143569423, "size": 1604.1463143569422, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.242693, 6.219349 ] } },
-{ "type": "Feature", "properties": { "id": "ALEJANDRÍA", "label": "ALEJANDRÍA", "code": "5021", "community": 1, "pagerank": 0.0097159961827450719, "weight": 0.97159961827450714, "size": 971.59961827450718, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.141346, 6.376061 ] } },
-{ "type": "Feature", "properties": { "id": "GUARNE", "label": "GUARNE", "code": "5318", "community": 1, "pagerank": 0.0063160348261704418, "weight": 0.63160348261704413, "size": 631.60348261704416, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.441612, 6.27787 ] } },
-{ "type": "Feature", "properties": { "id": "CISNEROS", "label": "CISNEROS", "code": "5190", "community": 1, "pagerank": 0.004787941707102273, "weight": 0.47879417071022728, "size": 478.79417071022732, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.087047, 6.537829 ] } },
-{ "type": "Feature", "properties": { "id": "MEDELLÍN", "label": "MEDELLÍN", "code": "5001", "community": 4, "pagerank": 0.013668773227829226, "weight": 1.3668773227829227, "size": 1366.8773227829226, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.581775, 6.246631 ] } },
-{ "type": "Feature", "properties": { "id": "ANZÁ", "label": "ANZÁ", "code": "5044", "community": 2, "pagerank": 0.0090388981176763392, "weight": 0.90388981176763394, "size": 903.88981176763389, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.854442, 6.302641 ] } },
-{ "type": "Feature", "properties": { "id": "GUATAPÉ", "label": "GUATAPÉ", "code": "5321", "community": 1, "pagerank": 0.015605944881314204, "weight": 1.5605944881314204, "size": 1560.5944881314203, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.160041, 6.232461 ] } },
-{ "type": "Feature", "properties": { "id": "EBÉJICO", "label": "EBÉJICO", "code": "5240", "community": 4, "pagerank": 0.0081535282953507041, "weight": 0.81535282953507038, "size": 815.35282953507044, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.766413, 6.325615 ] } },
-{ "type": "Feature", "properties": { "id": "SAN RAFAEL", "label": "SAN RAFAEL", "code": "5667", "community": 1, "pagerank": 0.0072745053155476762, "weight": 0.72745053155476758, "size": 727.45053155476762, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.02849, 6.293759 ] } },
-{ "type": "Feature", "properties": { "id": "SAN ROQUE", "label": "SAN ROQUE", "code": "5670", "community": 1, "pagerank": 0.0057521918047140326, "weight": 0.5752191804714033, "size": 575.21918047140332, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.019109, 6.485939 ] } },
-{ "type": "Feature", "properties": { "id": "BETULIA", "label": "BETULIA", "code": "5093", "community": 2, "pagerank": 0.0084498333055006442, "weight": 0.84498333055006447, "size": 844.98333055006447, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.984452, 6.115208 ] } },
-{ "type": "Feature", "properties": { "id": "SALGAR", "label": "SALGAR", "code": "5642", "community": 2, "pagerank": 0.016627268945579605, "weight": 1.6627268945579605, "size": 1662.7268945579606, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.976807, 5.964198 ] } },
-{ "type": "Feature", "properties": { "id": "CONCORDIA", "label": "CONCORDIA", "code": "5209", "community": 2, "pagerank": 0.0072303091708361394, "weight": 0.72303091708361389, "size": 723.03091708361399, "color_r": 255, "color_g": 165, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.908448, 6.045738 ] } },
-{ "type": "Feature", "properties": { "id": "HELICONIA", "label": "HELICONIA", "code": "5347", "community": 4, "pagerank": 0.012487976850475478, "weight": 1.2487976850475477, "size": 1248.7976850475477, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.734322, 6.206757 ] } },
-{ "type": "Feature", "properties": { "id": "MARINILLA", "label": "MARINILLA", "code": "5440", "community": 1, "pagerank": 0.0089177642883493894, "weight": 0.89177642883493891, "size": 891.776428834939, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.339345, 6.173995 ] } },
-{ "type": "Feature", "properties": { "id": "RIONEGRO", "label": "RIONEGRO", "code": "5615", "community": 1, "pagerank": 0.0098589977681464123, "weight": 0.98589977681464125, "size": 985.8997768146412, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.377316, 6.147148 ] } },
-{ "type": "Feature", "properties": { "id": "EL SANTUARIO", "label": "EL SANTUARIO", "code": "5697", "community": 1, "pagerank": 0.0067236654849166166, "weight": 0.67236654849166166, "size": 672.36654849166166, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.265465, 6.136871 ] } },
-{ "type": "Feature", "properties": { "id": "GRANADA", "label": "GRANADA", "code": "5313", "community": 1, "pagerank": 0.0079817207494196178, "weight": 0.79817207494196174, "size": 798.1720749419618, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.184446, 6.142892 ] } },
-{ "type": "Feature", "properties": { "id": "ENVIGADO", "label": "ENVIGADO", "code": "5266", "community": 6, "pagerank": 0.0091955862648696284, "weight": 0.91955862648696285, "size": 919.55862648696279, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.582192, 6.166695 ] } },
-{ "type": "Feature", "properties": { "id": "RETIRO", "label": "RETIRO", "code": "5607", "community": 6, "pagerank": 0.019910381147140103, "weight": 1.9910381147140104, "size": 1991.0381147140104, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.501301, 6.062454 ] } },
-{ "type": "Feature", "properties": { "id": "CALDAS", "label": "CALDAS", "code": "5129", "community": 6, "pagerank": 0.010398822432920568, "weight": 1.0398822432920567, "size": 1039.8822432920567, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.633673, 6.091077 ] } },
-{ "type": "Feature", "properties": { "id": "SABANETA", "label": "SABANETA", "code": "5631", "community": 6, "pagerank": 0.0094763679632564723, "weight": 0.94763679632564723, "size": 947.6367963256472, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.615479, 6.149903 ] } },
-{ "type": "Feature", "properties": { "id": "LA ESTRELLA", "label": "LA ESTRELLA", "code": "5380", "community": 4, "pagerank": 0.0075380528757487191, "weight": 0.75380528757487186, "size": 753.80528757487195, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.637708, 6.145238 ] } },
-{ "type": "Feature", "properties": { "id": "ITAGÜÍ", "label": "ITAGÜÍ", "code": "5360", "community": 4, "pagerank": 0.0054048572823905483, "weight": 0.54048572823905483, "size": 540.48572823905488, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.612056, 6.175079 ] } },
-{ "type": "Feature", "properties": { "id": "ANGELÓPOLIS", "label": "ANGELÓPOLIS", "code": "5036", "community": 4, "pagerank": 0.010037383192184628, "weight": 1.0037383192184628, "size": 1003.7383192184628, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.711389, 6.109719 ] } },
-{ "type": "Feature", "properties": { "id": "EL CARMEN DE VIBORAL", "label": "EL CARMEN DE VIBORAL", "code": "5148", "community": 1, "pagerank": 0.024229010069347294, "weight": 2.4229010069347292, "size": 2422.9010069347296, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.333901, 6.082885 ] } },
-{ "type": "Feature", "properties": { "id": "LA CEJA", "label": "LA CEJA", "code": "5376", "community": 1, "pagerank": 0.0068021136971433884, "weight": 0.68021136971433882, "size": 680.21136971433884, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.429433, 6.028062 ] } },
-{ "type": "Feature", "properties": { "id": "SAN CARLOS", "label": "SAN CARLOS", "code": "5649", "community": 1, "pagerank": 0.021915669184718455, "weight": 2.1915669184718456, "size": 2191.5669184718454, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -74.988097, 6.187746 ] } },
-{ "type": "Feature", "properties": { "id": "SAN LUIS", "label": "SAN LUIS", "code": "5660", "community": 1, "pagerank": 0.006431215646052266, "weight": 0.64312156460522663, "size": 643.12156460522658, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -74.993619, 6.043017 ] } },
-{ "type": "Feature", "properties": { "id": "MONTEBELLO", "label": "MONTEBELLO", "code": "5467", "community": 6, "pagerank": 0.0059094165851100418, "weight": 0.59094165851100422, "size": 590.94165851100422, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.523455, 5.946313 ] } },
-{ "type": "Feature", "properties": { "id": "SANTA BÁRBARA", "label": "SANTA BÁRBARA", "code": "5679", "community": 6, "pagerank": 0.013525208648705808, "weight": 1.3525208648705809, "size": 1352.5208648705809, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.567351, 5.875527 ] } },
-{ "type": "Feature", "properties": { "id": "FREDONIA", "label": "FREDONIA", "code": "5282", "community": 6, "pagerank": 0.010944940009160608, "weight": 1.0944940009160609, "size": 1094.4940009160607, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.675072, 5.928039 ] } },
-{ "type": "Feature", "properties": { "id": "ARMENIA", "label": "ARMENIA", "code": "5059", "community": 4, "pagerank": 0.0085993733394260693, "weight": 0.85993733394260696, "size": 859.93733394260698, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.786647, 6.155667 ] } },
-{ "type": "Feature", "properties": { "id": "TITIRIBÍ", "label": "TITIRIBÍ", "code": "5809", "community": 4, "pagerank": 0.0073657854643955365, "weight": 0.73657854643955367, "size": 736.57854643955363, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.791887, 6.062391 ] } },
-{ "type": "Feature", "properties": { "id": "AMAGÁ", "label": "AMAGÁ", "code": "5030", "community": 4, "pagerank": 0.0080269737939483964, "weight": 0.80269737939483965, "size": 802.69737939483969, "color_r": 0, "color_g": 255, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.702188, 6.038708 ] } },
-{ "type": "Feature", "properties": { "id": "COCORNÁ", "label": "COCORNÁ", "code": "5197", "community": 1, "pagerank": 0.0089028355196783902, "weight": 0.89028355196783904, "size": 890.283551967839, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.185483, 6.058295 ] } },
-{ "type": "Feature", "properties": { "id": "LA UNIÓN", "label": "LA UNIÓN", "code": "5400", "community": 1, "pagerank": 0.011242827830314439, "weight": 1.1242827830314439, "size": 1124.2827830314438, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.360874, 5.973845 ] } },
-{ "type": "Feature", "properties": { "id": "ABEJORRAL", "label": "ABEJORRAL", "code": "5002", "community": 1, "pagerank": 0.0081043026716585802, "weight": 0.81043026716585798, "size": 810.43026716585803, "color_r": 0, "color_g": 0, "color_b": 255, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.428739, 5.789315 ] } },
-{ "type": "Feature", "properties": { "id": "VENECIA", "label": "VENECIA", "code": "5861", "community": 6, "pagerank": 0.0073261274558135163, "weight": 0.73261274558135159, "size": 732.61274558135165, "color_r": 165, "color_g": 42, "color_b": 42, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.735544, 5.964693 ] } },
-{ "type": "Feature", "properties": { "id": "SONSÓN", "label": "SONSÓN", "code": "5756", "community": 8, "pagerank": 0.008500630402514954, "weight": 0.85006304025149537, "size": 850.06304025149541, "color_r": 0, "color_g": 0, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.309596, 5.714851 ] } },
-{ "type": "Feature", "properties": { "id": "SAN FRANCISCO", "label": "SAN FRANCISCO", "code": "5652", "community": 8, "pagerank": 0.011379509515536228, "weight": 1.1379509515536228, "size": 1137.9509515536229, "color_r": 0, "color_g": 0, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.101562, 5.963476 ] } },
-{ "type": "Feature", "properties": { "id": "CIUDAD BOLÍVAR", "label": "CIUDAD BOLÍVAR", "code": "5101", "community": 5, "pagerank": 0.0094271222964211025, "weight": 0.94271222964211021, "size": 942.71222964211029, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -76.021509, 5.850273 ] } },
-{ "type": "Feature", "properties": { "id": "ARGELIA", "label": "ARGELIA", "code": "5055", "community": 8, "pagerank": 0.0069971551127107155, "weight": 0.69971551127107157, "size": 699.71551127107159, "color_r": 0, "color_g": 0, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.14107, 5.731474 ] } },
-{ "type": "Feature", "properties": { "id": "TARSO", "label": "TARSO", "code": "5792", "community": 5, "pagerank": 0.012485119242895117, "weight": 1.2485119242895117, "size": 1248.5119242895116, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.822956, 5.864542 ] } },
-{ "type": "Feature", "properties": { "id": "PUEBLORRICO", "label": "PUEBLORRICO", "code": "5576", "community": 5, "pagerank": 0.0096468203662445663, "weight": 0.96468203662445662, "size": 964.6820366244566, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.839903, 5.79158 ] } },
-{ "type": "Feature", "properties": { "id": "LA PINTADA", "label": "LA PINTADA", "code": "5390", "community": 100, "pagerank": 0.0090291625236813382, "weight": 0.90291625236813378, "size": 902.91625236813377, "color_r": 106, "color_g": 90, "color_b": 205, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.60781, 5.743808 ] } },
-{ "type": "Feature", "properties": { "id": "BETANIA", "label": "BETANIA", "code": "5091", "community": 5, "pagerank": 0.0063464048998968098, "weight": 0.63464048998968092, "size": 634.64048998968099, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.97679, 5.74615 ] } },
-{ "type": "Feature", "properties": { "id": "HISPANIA", "label": "HISPANIA", "code": "5353", "community": 5, "pagerank": 0.0068219603162435498, "weight": 0.68219603162435494, "size": 682.19603162435499, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.906587, 5.799461 ] } },
-{ "type": "Feature", "properties": { "id": "NARIÑO", "label": "NARIÑO", "code": "5483", "community": 8, "pagerank": 0.0039304004369198602, "weight": 0.39304004369198603, "size": 393.040043691986, "color_r": 0, "color_g": 0, "color_b": 0, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.176262, 5.610777 ] } },
-{ "type": "Feature", "properties": { "id": "ANDES", "label": "ANDES", "code": "5034", "community": 5, "pagerank": 0.011119155487056265, "weight": 1.1119155487056265, "size": 1111.9155487056266, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.878828, 5.657194 ] } },
-{ "type": "Feature", "properties": { "id": "JERICÓ", "label": "JERICÓ", "code": "5368", "community": 5, "pagerank": 0.011927271508508334, "weight": 1.1927271508508335, "size": 1192.7271508508334, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.785499, 5.789748 ] } },
-{ "type": "Feature", "properties": { "id": "TÁMESIS", "label": "TÁMESIS", "code": "5789", "community": 5, "pagerank": 0.012594509033660528, "weight": 1.2594509033660528, "size": 1259.4509033660527, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.714429, 5.664645 ] } },
-{ "type": "Feature", "properties": { "id": "JARDÍN", "label": "JARDÍN", "code": "5364", "community": 5, "pagerank": 0.013049872121039224, "weight": 1.3049872121039225, "size": 1304.9872121039225, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.818982, 5.597542 ] } },
-{ "type": "Feature", "properties": { "id": "VALPARAÍSO", "label": "VALPARAÍSO", "code": "5856", "community": 5, "pagerank": 0.0070688039027324559, "weight": 0.70688039027324556, "size": 706.88039027324555, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.624452, 5.614555 ] } },
-{ "type": "Feature", "properties": { "id": "CARAMANTA", "label": "CARAMANTA", "code": "5145", "community": 5, "pagerank": 0.0069038333953682753, "weight": 0.69038333953682751, "size": 690.38333953682752, "color_r": 255, "color_g": 192, "color_b": 203, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -75.643868, 5.54853 ] } },
-{ "type": "Feature", "properties": { "id": "YALÍ", "label": "YALÍ", "code": "5885", "community": 100, "pagerank": 0.024636419118656962, "weight": 2.4636419118656963, "size": 2463.6419118656963, "color_r": 106, "color_g": 90, "color_b": 205, "color_a": 1.0 }, "geometry": { "type": "Point", "coordinates": [ -74.840059, 6.676554 ] } }
-]
+  "type": "FeatureCollection",
+  "name": "fig2_undirected_Pperuviana_10km_10steps_10reps_municipalities_network_v2_nodes",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ITUANGO",
+        "label": "ITUANGO",
+        "code": "5361",
+        "community": 10,
+        "pagerank": 0.029395157742000744,
+        "weight": 2.9395157742000744,
+        "size": 2939.5157742000742,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.764673,
+          7.171629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VALDIVIA",
+        "label": "VALDIVIA",
+        "code": "5854",
+        "community": 9,
+        "pagerank": 0.006941945811195964,
+        "weight": 0.6941945811195964,
+        "size": 694.1945811195965,
+        "color_r": 253,
+        "color_g": 231,
+        "color_b": 37,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.439274,
+          7.1652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TARAZÁ",
+        "label": "TARAZÁ",
+        "code": "5790",
+        "community": 12,
+        "pagerank": 0.0053381786956491544,
+        "weight": 0.5338178695649154,
+        "size": 533.8178695649154,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.401407,
+          7.580127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRICEÑO",
+        "label": "BRICEÑO",
+        "code": "5107",
+        "community": 9,
+        "pagerank": 0.005189078909890384,
+        "weight": 0.5189078909890384,
+        "size": 518.9078909890384,
+        "color_r": 253,
+        "color_g": 231,
+        "color_b": 37,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55036,
+          7.112803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MUTATÁ",
+        "label": "MUTATÁ",
+        "code": "5480",
+        "community": 10,
+        "pagerank": 0.026283102642092642,
+        "weight": 2.628310264209264,
+        "size": 2628.310264209264,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.435875,
+          7.242875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DABEIBA",
+        "label": "DABEIBA",
+        "code": "5234",
+        "community": 2,
+        "pagerank": 0.00369676190618823,
+        "weight": 0.369676190618823,
+        "size": 369.676190618823,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.261614,
+          6.998112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PEQUE",
+        "label": "PEQUE",
+        "code": "5543",
+        "community": 2,
+        "pagerank": 0.005182190911241867,
+        "weight": 0.5182190911241867,
+        "size": 518.2190911241868,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.910357,
+          7.021029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TOLEDO",
+        "label": "TOLEDO",
+        "code": "5819",
+        "community": 3,
+        "pagerank": 0.005188899028148738,
+        "weight": 0.5188899028148738,
+        "size": 518.8899028148738,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.692281,
+          7.010328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "URAMITA",
+        "label": "URAMITA",
+        "code": "5842",
+        "community": 2,
+        "pagerank": 0.0034391075850794418,
+        "weight": 0.34391075850794417,
+        "size": 343.9107585079442,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.173284,
+          6.898393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SABANALARGA",
+        "label": "SABANALARGA",
+        "code": "5628",
+        "community": 3,
+        "pagerank": 0.0070483755734044905,
+        "weight": 0.7048375573404491,
+        "size": 704.837557340449,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.816645,
+          6.850028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAÑASGORDAS",
+        "label": "CAÑASGORDAS",
+        "code": "5138",
+        "community": 2,
+        "pagerank": 0.0052130002436636775,
+        "weight": 0.5213000243663678,
+        "size": 521.3000243663678,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.028228,
+          6.753859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN ANDRÉS DE CUERQUÍA",
+        "label": "SAN ANDRÉS DE CUERQUÍA",
+        "code": "5647",
+        "community": 3,
+        "pagerank": 0.02761455341207607,
+        "weight": 2.7614553412076073,
+        "size": 2761.455341207607,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.674564,
+          6.916676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YARUMAL",
+        "label": "YARUMAL",
+        "code": "5887",
+        "community": 9,
+        "pagerank": 0.008657263399031433,
+        "weight": 0.8657263399031433,
+        "size": 865.7263399031433,
+        "color_r": 253,
+        "color_g": 231,
+        "color_b": 37,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.418828,
+          6.963832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BURITICÁ",
+        "label": "BURITICÁ",
+        "code": "5113",
+        "community": 2,
+        "pagerank": 0.006335739686776191,
+        "weight": 0.6335739686776192,
+        "size": 633.5739686776192,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.907,
+          6.720759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FRONTINO",
+        "label": "FRONTINO",
+        "code": "5284",
+        "community": 2,
+        "pagerank": 0.008338466509589412,
+        "weight": 0.8338466509589412,
+        "size": 833.8466509589412,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.130765,
+          6.776066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SANTA ROSA DE OSOS",
+        "label": "SANTA ROSA DE OSOS",
+        "code": "5686",
+        "community": 3,
+        "pagerank": 0.012641851927539591,
+        "weight": 1.2641851927539591,
+        "size": 1264.1851927539592,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460723,
+          6.643366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN JOSÉ DE LA MONTAÑA",
+        "label": "SAN JOSÉ DE LA MONTAÑA",
+        "code": "5658",
+        "community": 3,
+        "pagerank": 0.0103882648701195,
+        "weight": 1.0388264870119501,
+        "size": 1038.8264870119501,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.683352,
+          6.85009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAMPAMENTO",
+        "label": "CAMPAMENTO",
+        "code": "5134",
+        "community": 3,
+        "pagerank": 0.004170333355866188,
+        "weight": 0.4170333355866188,
+        "size": 417.0333355866188,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.298091,
+          6.979771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ANORÍ",
+        "label": "ANORÍ",
+        "code": "5040",
+        "community": 3,
+        "pagerank": 0.00476040855674856,
+        "weight": 0.47604085567485604,
+        "size": 476.040855674856,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.148355,
+          7.074703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ANGOSTURA",
+        "label": "ANGOSTURA",
+        "code": "5038",
+        "community": 3,
+        "pagerank": 0.006227080408841203,
+        "weight": 0.6227080408841204,
+        "size": 622.7080408841204,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.335116,
+          6.885175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BELMIRA",
+        "label": "BELMIRA",
+        "code": "5086",
+        "community": 7,
+        "pagerank": 0.025002420347501657,
+        "weight": 2.5002420347501655,
+        "size": 2500.2420347501657,
+        "color_r": 93,
+        "color_g": 200,
+        "color_b": 99,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.667779,
+          6.606319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LIBORINA",
+        "label": "LIBORINA",
+        "code": "5411",
+        "community": 3,
+        "pagerank": 0.008731467894223853,
+        "weight": 0.8731467894223852,
+        "size": 873.1467894223853,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.812838,
+          6.677316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "OLAYA",
+        "label": "OLAYA",
+        "code": "5501",
+        "community": 3,
+        "pagerank": 0.005897311763543047,
+        "weight": 0.5897311763543047,
+        "size": 589.7311763543047,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.811773,
+          6.626492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ENTRERRÍOS",
+        "label": "ENTRERRÍOS",
+        "code": "5264",
+        "community": 7,
+        "pagerank": 0.010194095875307936,
+        "weight": 1.0194095875307936,
+        "size": 1019.4095875307936,
+        "color_r": 93,
+        "color_g": 200,
+        "color_b": 99,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.517685,
+          6.566273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAROLINA",
+        "label": "CAROLINA",
+        "code": "5150",
+        "community": 3,
+        "pagerank": 0.008730996846789074,
+        "weight": 0.8730996846789074,
+        "size": 873.0996846789075,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.283192,
+          6.725995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GIRALDO",
+        "label": "GIRALDO",
+        "code": "5306",
+        "community": 2,
+        "pagerank": 0.002975883515211157,
+        "weight": 0.29758835152111573,
+        "size": 297.5883515211157,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.952158,
+          6.680808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ABRIAQUÍ",
+        "label": "ABRIAQUÍ",
+        "code": "5004",
+        "community": 2,
+        "pagerank": 0.005462777521203399,
+        "weight": 0.5462777521203399,
+        "size": 546.27775212034,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.064304,
+          6.632282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GUADALUPE",
+        "label": "GUADALUPE",
+        "code": "5315",
+        "community": 3,
+        "pagerank": 0.008161497433385448,
+        "weight": 0.8161497433385447,
+        "size": 816.1497433385448,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.239862,
+          6.815069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GÓMEZ PLATA",
+        "label": "GÓMEZ PLATA",
+        "code": "5310",
+        "community": 3,
+        "pagerank": 0.008224902237955094,
+        "weight": 0.8224902237955094,
+        "size": 822.4902237955095,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.220018,
+          6.683269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMALFI",
+        "label": "AMALFI",
+        "code": "5031",
+        "community": 11,
+        "pagerank": 0.005538031391276919,
+        "weight": 0.553803139127692,
+        "size": 553.8031391276919,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.077501,
+          6.909655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SANTA FÉ DE ANTIOQUIA",
+        "label": "SANTA FÉ DE ANTIOQUIA",
+        "code": "5042",
+        "community": 2,
+        "pagerank": 0.009574704612404486,
+        "weight": 0.9574704612404487,
+        "size": 957.4704612404487,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.826648,
+          6.556484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "DONMATÍAS",
+        "label": "DONMATÍAS",
+        "code": "5237",
+        "community": 7,
+        "pagerank": 0.01689149136420247,
+        "weight": 1.6891491364202469,
+        "size": 1689.1491364202468,
+        "color_r": 93,
+        "color_g": 200,
+        "color_b": 99,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.39263,
+          6.485603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SOPETRÁN",
+        "label": "SOPETRÁN",
+        "code": "5761",
+        "community": 3,
+        "pagerank": 0.006693420706847285,
+        "weight": 0.6693420706847285,
+        "size": 669.3420706847285,
+        "color_r": 59,
+        "color_g": 82,
+        "color_b": 139,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.747378,
+          6.500745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YOLOMBÓ",
+        "label": "YOLOMBÓ",
+        "code": "5890",
+        "community": 11,
+        "pagerank": 0.009584436213184054,
+        "weight": 0.9584436213184053,
+        "size": 958.4436213184053,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.013385,
+          6.594511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SANTO DOMINGO",
+        "label": "SANTO DOMINGO",
+        "code": "5690",
+        "community": 1,
+        "pagerank": 0.009162977709209172,
+        "weight": 0.9162977709209171,
+        "size": 916.2977709209172,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.164903,
+          6.473032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BARBOSA",
+        "label": "BARBOSA",
+        "code": "5079",
+        "community": 1,
+        "pagerank": 0.008118049817727025,
+        "weight": 0.8118049817727025,
+        "size": 811.8049817727025,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.331627,
+          6.439195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "URRAO",
+        "label": "URRAO",
+        "code": "5847",
+        "community": 2,
+        "pagerank": 0.02115853123347396,
+        "weight": 2.115853123347396,
+        "size": 2115.853123347396,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.133951,
+          6.317343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CONCEPCIÓN",
+        "label": "CONCEPCIÓN",
+        "code": "5206",
+        "community": 1,
+        "pagerank": 0.006471163965295119,
+        "weight": 0.6471163965295119,
+        "size": 647.1163965295119,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.257587,
+          6.394348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CAICEDO",
+        "label": "CAICEDO",
+        "code": "5125",
+        "community": 2,
+        "pagerank": 0.005684818334583747,
+        "weight": 0.5684818334583748,
+        "size": 568.4818334583747,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98293,
+          6.405607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN PEDRO DE LOS MILAGROS",
+        "label": "SAN PEDRO DE LOS MILAGROS",
+        "code": "5664",
+        "community": 7,
+        "pagerank": 0.019406224593537896,
+        "weight": 1.9406224593537895,
+        "size": 1940.6224593537895,
+        "color_r": 93,
+        "color_g": 200,
+        "color_b": 99,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.556743,
+          6.46012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VEGACHÍ",
+        "label": "VEGACHÍ",
+        "code": "5858",
+        "community": 100,
+        "pagerank": 0.004289361185020127,
+        "weight": 0.4289361185020127,
+        "size": 428.93611850201273,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.798714,
+          6.773525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN JERÓNIMO",
+        "label": "SAN JERÓNIMO",
+        "code": "5656",
+        "community": 4,
+        "pagerank": 0.004739338184627219,
+        "weight": 0.47393381846272187,
+        "size": 473.9338184627219,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.726975,
+          6.44809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GIRARDOTA",
+        "label": "GIRARDOTA",
+        "code": "5308",
+        "community": 1,
+        "pagerank": 0.0071411039367867,
+        "weight": 0.7141103936786699,
+        "size": 714.11039367867,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.444238,
+          6.379472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COPACABANA",
+        "label": "COPACABANA",
+        "code": "5212",
+        "community": 4,
+        "pagerank": 0.006040614167942536,
+        "weight": 0.6040614167942536,
+        "size": 604.0614167942537,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.509384,
+          6.348557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BELLO",
+        "label": "BELLO",
+        "code": "5088",
+        "community": 4,
+        "pagerank": 0.00700773651845046,
+        "weight": 0.700773651845046,
+        "size": 700.7736518450461,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.555245,
+          6.333587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN VICENTE FERRER",
+        "label": "SAN VICENTE FERRER",
+        "code": "5674",
+        "community": 1,
+        "pagerank": 0.009282666635853672,
+        "weight": 0.9282666635853672,
+        "size": 928.2666635853672,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.332616,
+          6.282164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PEÑOL",
+        "label": "PEÑOL",
+        "code": "5541",
+        "community": 1,
+        "pagerank": 0.016041463143569423,
+        "weight": 1.6041463143569423,
+        "size": 1604.1463143569422,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.242693,
+          6.219349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ALEJANDRÍA",
+        "label": "ALEJANDRÍA",
+        "code": "5021",
+        "community": 1,
+        "pagerank": 0.009715996182745072,
+        "weight": 0.9715996182745071,
+        "size": 971.5996182745072,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.141346,
+          6.376061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GUARNE",
+        "label": "GUARNE",
+        "code": "5318",
+        "community": 1,
+        "pagerank": 0.006316034826170442,
+        "weight": 0.6316034826170441,
+        "size": 631.6034826170442,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.441612,
+          6.27787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CISNEROS",
+        "label": "CISNEROS",
+        "code": "5190",
+        "community": 1,
+        "pagerank": 0.004787941707102273,
+        "weight": 0.4787941707102273,
+        "size": 478.7941707102273,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.087047,
+          6.537829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MEDELLÍN",
+        "label": "MEDELLÍN",
+        "code": "5001",
+        "community": 4,
+        "pagerank": 0.013668773227829226,
+        "weight": 1.3668773227829227,
+        "size": 1366.8773227829226,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.581775,
+          6.246631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ANZÁ",
+        "label": "ANZÁ",
+        "code": "5044",
+        "community": 2,
+        "pagerank": 0.00903889811767634,
+        "weight": 0.9038898117676339,
+        "size": 903.8898117676339,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.854442,
+          6.302641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GUATAPÉ",
+        "label": "GUATAPÉ",
+        "code": "5321",
+        "community": 1,
+        "pagerank": 0.015605944881314204,
+        "weight": 1.5605944881314204,
+        "size": 1560.5944881314203,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.160041,
+          6.232461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EBÉJICO",
+        "label": "EBÉJICO",
+        "code": "5240",
+        "community": 4,
+        "pagerank": 0.008153528295350704,
+        "weight": 0.8153528295350704,
+        "size": 815.3528295350704,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.766413,
+          6.325615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN RAFAEL",
+        "label": "SAN RAFAEL",
+        "code": "5667",
+        "community": 1,
+        "pagerank": 0.007274505315547676,
+        "weight": 0.7274505315547676,
+        "size": 727.4505315547676,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.02849,
+          6.293759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN ROQUE",
+        "label": "SAN ROQUE",
+        "code": "5670",
+        "community": 1,
+        "pagerank": 0.005752191804714033,
+        "weight": 0.5752191804714033,
+        "size": 575.2191804714033,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.019109,
+          6.485939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BETULIA",
+        "label": "BETULIA",
+        "code": "5093",
+        "community": 2,
+        "pagerank": 0.008449833305500644,
+        "weight": 0.8449833305500645,
+        "size": 844.9833305500645,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.984452,
+          6.115208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SALGAR",
+        "label": "SALGAR",
+        "code": "5642",
+        "community": 2,
+        "pagerank": 0.016627268945579605,
+        "weight": 1.6627268945579605,
+        "size": 1662.7268945579606,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.976807,
+          5.964198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CONCORDIA",
+        "label": "CONCORDIA",
+        "code": "5209",
+        "community": 2,
+        "pagerank": 0.007230309170836139,
+        "weight": 0.7230309170836139,
+        "size": 723.030917083614,
+        "color_r": 71,
+        "color_g": 45,
+        "color_b": 123,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.908448,
+          6.045738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HELICONIA",
+        "label": "HELICONIA",
+        "code": "5347",
+        "community": 4,
+        "pagerank": 0.012487976850475478,
+        "weight": 1.2487976850475477,
+        "size": 1248.7976850475477,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.734322,
+          6.206757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MARINILLA",
+        "label": "MARINILLA",
+        "code": "5440",
+        "community": 1,
+        "pagerank": 0.00891776428834939,
+        "weight": 0.8917764288349389,
+        "size": 891.776428834939,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.339345,
+          6.173995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIONEGRO",
+        "label": "RIONEGRO",
+        "code": "5615",
+        "community": 1,
+        "pagerank": 0.009858997768146412,
+        "weight": 0.9858997768146412,
+        "size": 985.8997768146412,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.377316,
+          6.147148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EL SANTUARIO",
+        "label": "EL SANTUARIO",
+        "code": "5697",
+        "community": 1,
+        "pagerank": 0.006723665484916617,
+        "weight": 0.6723665484916617,
+        "size": 672.3665484916617,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.265465,
+          6.136871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GRANADA",
+        "label": "GRANADA",
+        "code": "5313",
+        "community": 1,
+        "pagerank": 0.007981720749419618,
+        "weight": 0.7981720749419617,
+        "size": 798.1720749419618,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.184446,
+          6.142892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ENVIGADO",
+        "label": "ENVIGADO",
+        "code": "5266",
+        "community": 6,
+        "pagerank": 0.009195586264869628,
+        "weight": 0.9195586264869628,
+        "size": 919.5586264869628,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.582192,
+          6.166695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RETIRO",
+        "label": "RETIRO",
+        "code": "5607",
+        "community": 6,
+        "pagerank": 0.019910381147140103,
+        "weight": 1.9910381147140104,
+        "size": 1991.0381147140104,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.501301,
+          6.062454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CALDAS",
+        "label": "CALDAS",
+        "code": "5129",
+        "community": 6,
+        "pagerank": 0.010398822432920568,
+        "weight": 1.0398822432920567,
+        "size": 1039.8822432920567,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.633673,
+          6.091077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SABANETA",
+        "label": "SABANETA",
+        "code": "5631",
+        "community": 6,
+        "pagerank": 0.009476367963256472,
+        "weight": 0.9476367963256472,
+        "size": 947.6367963256472,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.615479,
+          6.149903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LA ESTRELLA",
+        "label": "LA ESTRELLA",
+        "code": "5380",
+        "community": 4,
+        "pagerank": 0.007538052875748719,
+        "weight": 0.7538052875748719,
+        "size": 753.805287574872,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.637708,
+          6.145238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ITAGÜÍ",
+        "label": "ITAGÜÍ",
+        "code": "5360",
+        "community": 4,
+        "pagerank": 0.005404857282390548,
+        "weight": 0.5404857282390548,
+        "size": 540.4857282390549,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.612056,
+          6.175079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ANGELÓPOLIS",
+        "label": "ANGELÓPOLIS",
+        "code": "5036",
+        "community": 4,
+        "pagerank": 0.010037383192184628,
+        "weight": 1.0037383192184628,
+        "size": 1003.7383192184628,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.711389,
+          6.109719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EL CARMEN DE VIBORAL",
+        "label": "EL CARMEN DE VIBORAL",
+        "code": "5148",
+        "community": 1,
+        "pagerank": 0.024229010069347294,
+        "weight": 2.422901006934729,
+        "size": 2422.9010069347296,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.333901,
+          6.082885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LA CEJA",
+        "label": "LA CEJA",
+        "code": "5376",
+        "community": 1,
+        "pagerank": 0.006802113697143388,
+        "weight": 0.6802113697143388,
+        "size": 680.2113697143388,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.429433,
+          6.028062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN CARLOS",
+        "label": "SAN CARLOS",
+        "code": "5649",
+        "community": 1,
+        "pagerank": 0.021915669184718455,
+        "weight": 2.1915669184718456,
+        "size": 2191.5669184718454,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.988097,
+          6.187746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN LUIS",
+        "label": "SAN LUIS",
+        "code": "5660",
+        "community": 1,
+        "pagerank": 0.006431215646052266,
+        "weight": 0.6431215646052266,
+        "size": 643.1215646052266,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.993619,
+          6.043017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MONTEBELLO",
+        "label": "MONTEBELLO",
+        "code": "5467",
+        "community": 6,
+        "pagerank": 0.005909416585110042,
+        "weight": 0.5909416585110042,
+        "size": 590.9416585110042,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.523455,
+          5.946313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SANTA BÁRBARA",
+        "label": "SANTA BÁRBARA",
+        "code": "5679",
+        "community": 6,
+        "pagerank": 0.013525208648705808,
+        "weight": 1.3525208648705809,
+        "size": 1352.520864870581,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.567351,
+          5.875527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FREDONIA",
+        "label": "FREDONIA",
+        "code": "5282",
+        "community": 6,
+        "pagerank": 0.010944940009160608,
+        "weight": 1.0944940009160609,
+        "size": 1094.4940009160607,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.675072,
+          5.928039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ARMENIA",
+        "label": "ARMENIA",
+        "code": "5059",
+        "community": 4,
+        "pagerank": 0.00859937333942607,
+        "weight": 0.859937333942607,
+        "size": 859.937333942607,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.786647,
+          6.155667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TITIRIBÍ",
+        "label": "TITIRIBÍ",
+        "code": "5809",
+        "community": 4,
+        "pagerank": 0.0073657854643955365,
+        "weight": 0.7365785464395537,
+        "size": 736.5785464395536,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.791887,
+          6.062391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "AMAGÁ",
+        "label": "AMAGÁ",
+        "code": "5030",
+        "community": 4,
+        "pagerank": 0.008026973793948396,
+        "weight": 0.8026973793948396,
+        "size": 802.6973793948397,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.702188,
+          6.038708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "COCORNÁ",
+        "label": "COCORNÁ",
+        "code": "5197",
+        "community": 1,
+        "pagerank": 0.00890283551967839,
+        "weight": 0.890283551967839,
+        "size": 890.283551967839,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.185483,
+          6.058295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LA UNIÓN",
+        "label": "LA UNIÓN",
+        "code": "5400",
+        "community": 1,
+        "pagerank": 0.011242827830314439,
+        "weight": 1.124282783031444,
+        "size": 1124.2827830314438,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.360874,
+          5.973845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ABEJORRAL",
+        "label": "ABEJORRAL",
+        "code": "5002",
+        "community": 1,
+        "pagerank": 0.00810430267165858,
+        "weight": 0.810430267165858,
+        "size": 810.430267165858,
+        "color_r": 68,
+        "color_g": 1,
+        "color_b": 84,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.428739,
+          5.789315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VENECIA",
+        "label": "VENECIA",
+        "code": "5861",
+        "community": 6,
+        "pagerank": 0.007326127455813516,
+        "weight": 0.7326127455813516,
+        "size": 732.6127455813516,
+        "color_r": 39,
+        "color_g": 173,
+        "color_b": 129,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.735544,
+          5.964693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SONSÓN",
+        "label": "SONSÓN",
+        "code": "5756",
+        "community": 8,
+        "pagerank": 0.008500630402514954,
+        "weight": 0.8500630402514954,
+        "size": 850.0630402514954,
+        "color_r": 170,
+        "color_g": 220,
+        "color_b": 50,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.309596,
+          5.714851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SAN FRANCISCO",
+        "label": "SAN FRANCISCO",
+        "code": "5652",
+        "community": 8,
+        "pagerank": 0.011379509515536228,
+        "weight": 1.1379509515536228,
+        "size": 1137.9509515536229,
+        "color_r": 170,
+        "color_g": 220,
+        "color_b": 50,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.101562,
+          5.963476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CIUDAD BOLÍVAR",
+        "label": "CIUDAD BOLÍVAR",
+        "code": "5101",
+        "community": 5,
+        "pagerank": 0.009427122296421103,
+        "weight": 0.9427122296421102,
+        "size": 942.7122296421103,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.021509,
+          5.850273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ARGELIA",
+        "label": "ARGELIA",
+        "code": "5055",
+        "community": 8,
+        "pagerank": 0.0069971551127107155,
+        "weight": 0.6997155112710716,
+        "size": 699.7155112710716,
+        "color_r": 170,
+        "color_g": 220,
+        "color_b": 50,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14107,
+          5.731474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TARSO",
+        "label": "TARSO",
+        "code": "5792",
+        "community": 5,
+        "pagerank": 0.012485119242895117,
+        "weight": 1.2485119242895117,
+        "size": 1248.5119242895116,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.822956,
+          5.864542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "PUEBLORRICO",
+        "label": "PUEBLORRICO",
+        "code": "5576",
+        "community": 5,
+        "pagerank": 0.009646820366244566,
+        "weight": 0.9646820366244566,
+        "size": 964.6820366244566,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.839903,
+          5.79158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LA PINTADA",
+        "label": "LA PINTADA",
+        "code": "5390",
+        "community": 100,
+        "pagerank": 0.009029162523681338,
+        "weight": 0.9029162523681338,
+        "size": 902.9162523681338,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.60781,
+          5.743808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BETANIA",
+        "label": "BETANIA",
+        "code": "5091",
+        "community": 5,
+        "pagerank": 0.00634640489989681,
+        "weight": 0.6346404899896809,
+        "size": 634.640489989681,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97679,
+          5.74615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HISPANIA",
+        "label": "HISPANIA",
+        "code": "5353",
+        "community": 5,
+        "pagerank": 0.00682196031624355,
+        "weight": 0.6821960316243549,
+        "size": 682.196031624355,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.906587,
+          5.799461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NARIÑO",
+        "label": "NARIÑO",
+        "code": "5483",
+        "community": 8,
+        "pagerank": 0.00393040043691986,
+        "weight": 0.39304004369198603,
+        "size": 393.040043691986,
+        "color_r": 170,
+        "color_g": 220,
+        "color_b": 50,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.176262,
+          5.610777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ANDES",
+        "label": "ANDES",
+        "code": "5034",
+        "community": 5,
+        "pagerank": 0.011119155487056265,
+        "weight": 1.1119155487056265,
+        "size": 1111.9155487056266,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.878828,
+          5.657194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JERICÓ",
+        "label": "JERICÓ",
+        "code": "5368",
+        "community": 5,
+        "pagerank": 0.011927271508508334,
+        "weight": 1.1927271508508335,
+        "size": 1192.7271508508334,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.785499,
+          5.789748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TÁMESIS",
+        "label": "TÁMESIS",
+        "code": "5789",
+        "community": 5,
+        "pagerank": 0.012594509033660528,
+        "weight": 1.2594509033660528,
+        "size": 1259.4509033660527,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.714429,
+          5.664645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JARDÍN",
+        "label": "JARDÍN",
+        "code": "5364",
+        "community": 5,
+        "pagerank": 0.013049872121039224,
+        "weight": 1.3049872121039225,
+        "size": 1304.9872121039225,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.818982,
+          5.597542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "VALPARAÍSO",
+        "label": "VALPARAÍSO",
+        "code": "5856",
+        "community": 5,
+        "pagerank": 0.007068803902732456,
+        "weight": 0.7068803902732456,
+        "size": 706.8803902732456,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.624452,
+          5.614555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CARAMANTA",
+        "label": "CARAMANTA",
+        "code": "5145",
+        "community": 5,
+        "pagerank": 0.006903833395368275,
+        "weight": 0.6903833395368275,
+        "size": 690.3833395368275,
+        "color_r": 33,
+        "color_g": 145,
+        "color_b": 140,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.643868,
+          5.54853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "YALÍ",
+        "label": "YALÍ",
+        "code": "5885",
+        "community": 100,
+        "pagerank": 0.024636419118656962,
+        "weight": 2.4636419118656963,
+        "size": 2463.6419118656963,
+        "color_r": 44,
+        "color_g": 114,
+        "color_b": 142,
+        "color_a": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.840059,
+          6.676554
+        ]
+      }
+    }
+  ]
 }
